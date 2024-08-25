@@ -1,5 +1,7 @@
 .. _theHoTTGame:
 
+This is a fork I made to track my progress through The HoTT Game.
+
 *************
 The HoTT Game
 *************
